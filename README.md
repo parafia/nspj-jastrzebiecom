@@ -1,2 +1,0 @@
-# nspj-jastrzebiecom
-GitHub Pages
